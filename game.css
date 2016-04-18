@@ -1,0 +1,45 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Feb 24, 2015, 4:29:32 PM
+    Author     : Reclaimed
+*/
+
+body
+{
+    background:black url("backgorund.jpg") no-repeat fixed center;
+}
+#rule 
+{
+   margin-top:200px;
+    margin: auto;
+    width: 400px;
+    border: 3px solid skyblue;
+}
+
+#buttonOne
+{
+    margin: auto;
+    margin-top:200px;
+    border-collapse: collapse;
+}
+
+#buttonOne tr td
+{
+    border: 2px solid  black;
+    text-align: center;
+    width: 153px;
+    height: 153px;
+    background: url("wood.jpg");
+}
+
+#buttonOne tr td button
+{
+    border: 0px ;
+    width: 150px;
+    height: 150px;
+   background: url("wood.jpg");
+}
